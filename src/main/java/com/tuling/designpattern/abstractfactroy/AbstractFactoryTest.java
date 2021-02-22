@@ -83,7 +83,7 @@ class OracleCommand implements ICommand{
 
     @Override
     public void command() {
-        System.out.println("oracle:command.;");
+        System.out.println("oracle:command.");
     }
 }
 
